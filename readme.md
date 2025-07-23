@@ -111,8 +111,8 @@ data-sync-system/
 # 1. Clone the repository
   
 ```bash
-git clone https://github.com/Yash531548/Audio-Transcription-Api.git
-cd Audio-Transcription-Api
+git clone https://github.com/Yash531548/data_synchronization_system.git
+cd data_synchronization_system
 ```
 # 2. Install dependencies
 ```bash
